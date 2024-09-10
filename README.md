@@ -54,9 +54,3 @@ Throughout this project, we gained experience and knowledge in:
 - **U-Net Architecture**: Learning the workings of U-Net and its application in medical and other scientific fields.
 - **Evaluation Metrics**: Using SSIM, RMSE, and residual analysis to evaluate model performance.
 
-
-## Contact
-For any questions or inquiries, please contact:
-- Manan Parikh (202003005)
-- Manan Sodha (202003021)
-- Aditya Shah (202003045)
